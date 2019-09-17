@@ -1,0 +1,11 @@
+1) Start;
+
+2) Get value for c.temp from user;
+
+3) Read value;
+
+4) Set value of f.temp to (9/5 x c.temp + 32);
+
+5) Print the value of f.temp;
+
+6) End;
