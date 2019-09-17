@@ -1,0 +1,50 @@
+1) Start;
+
+2) Read "3", "6", "4", "7", "2", "5";
+
+
+3) Check
+	If 2>3
+		Then, skip to line 8
+	Else
+		Skip to line 4;
+
+4) Check
+	If 3>4
+		Then, skip to line 9
+	Else
+		Skip to line 5;
+
+5) Check
+	If 4>5
+		Then, skip to line 10
+	Else
+		Skip to line 6;
+
+6) Check
+	If 5>6
+		Then, skip to line 11
+	Else
+		Skip to line 7;
+
+7) Check
+	If 6>7
+		Then, skip to line 12
+	Else
+		Skip to line 13;
+
+8) Print: "2";
+
+9) Print: "3";
+
+10) Print: "4";
+
+11) Print: "5";
+
+12) Print: "6";
+
+13) Print: "7";
+
+14) End;
+
+
