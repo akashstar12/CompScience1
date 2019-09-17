@@ -1,0 +1,13 @@
+1) Start;
+
+2) Imput Number;
+
+3) Read Number;
+
+3) Check 
+	If Number%2 = 0 
+		Then, Print : N is a Even Number 
+	Else 
+		Print : N is a Odd Number; 
+
+4) End;
